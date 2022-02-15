@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5dd7f423-b7bc-0620-865d-806b1c0332ef
 ---
@@ -22,7 +24,7 @@ None, but there is a corequisite with [CC.011 Seminar II](http://student.mit.edu
 Course Overview
 ---------------
 
-This course investigates the philosophic basis of our modern way of life. We will first examine the philosophic foundations of modernity—the "Enlightenment"-in the writings of Niccolò Machiavelli, Thomas Hobbes, John Locke, and Jean-Jacques Rousseau. We will then turn to the Constitution, the debates over its establishment, and Tocqueville's reflections on the regime it created. Through these texts, we will see trace the Founders' attempts to put enlightenment philosophy into practice, and we will see how notions of freedom, so crucial to this modern philosophic project, inspire and sustain the American experiment. Since the Constitution only launched the endeavor, we next study the way in which great American statesmen understood and conducted this experiment in liberty and popular sovereignty. We conclude with works by the 18th century philosopher Jean-Jacques Rousseau and the19th century German philosopher Friedrich Nietzsche, both of whom offer sharp criticism of the Enlightenment project.
+This course investigates the philosophic basis of our modern way of life. We will first examine the philosophic foundations of modernity—the "Enlightenment"-in the writings of Niccolò Machiavelli, Thomas Hobbes, John Locke, and Jean-Jacques Rousseau. We will then turn to the Constitution, the debates over its establishment, and Tocqueville's reflections on the regime it created. Through these texts, we will see trace the Founders' attempts to put enlightenment philosophy into practice, and we will see how notions of freedom, so crucial to this modern philosophic project, inspire and sustain the American experiment. Since the Constitution only launched the endeavor, we next study the way in which great American statesmen understood and conducted this experiment in liberty and popular sovereignty. We conclude with works by the 18{{< sup "th" >}} century philosopher Jean-Jacques Rousseau and the19{{< sup "th" >}} century German philosopher Friedrich Nietzsche, both of whom offer sharp criticism of the Enlightenment project.
 
 Requirements
 ------------

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cc-111-modern-conceptions-of-freedom-spring-2013/17c36bca40ce3db3117d627a6961a06f_MITCC_111F12_Week7Ques.pdf
+file: /media/courses/cc-111-modern-conceptions-of-freedom-spring-2013/17c36bca40ce3db3117d627a6961a06f_MITCC_111F12_Week7Ques.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Questions
+parent_type: CourseSection
 resourcetype: Document
 title: 'CC.111s13 Modern Conceptions of Freedom: Week 7 Study Questions'
 uid: 17c36bca-40ce-3db3-117d-627a6961a06f
