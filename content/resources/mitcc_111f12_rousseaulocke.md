@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 99dd5e07-c2d3-dcce-0e13-35095e80c795
 resourcetype: Document
 title: 'CC.111s13 Modern Conceptions of Freedom: Student 2 Essay Example'
 uid: 2a845a07-47c8-6519-b2c0-f7a0365dc67e

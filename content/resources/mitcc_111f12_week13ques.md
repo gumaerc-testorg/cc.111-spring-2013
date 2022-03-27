@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Questions
 parent_type: CourseSection
+parent_uid: daa2ba65-4163-c1b8-47d5-c317f6b1af75
 resourcetype: Document
 title: 'CC.111s13 Modern Conceptions of Freedom: Week 13 Study Questions'
 uid: 06ed2653-6067-b4b1-f0d5-020a96d30eea
