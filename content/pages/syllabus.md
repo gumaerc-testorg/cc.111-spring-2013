@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course meeting times, a course overview, course
+  requirements, and the course's grade distribution.    This syllabus section provides
+  a course overview and information on the Concourse program at MIT, course meeting
+  times, prerequisites, requirements, required texts, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

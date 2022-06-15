@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cc-111-modern-conceptions-of-freedom-spring-2013/2a845a0747c86519b2c0f7a0365dc67e_MITCC_111F12_RousseauLocke.pdf
+file: /courses/cc-111-modern-conceptions-of-freedom-spring-2013/2a845a0747c86519b2c0f7a0365dc67e_MITCC_111F12_RousseauLocke.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
