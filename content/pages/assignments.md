@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section provides descriptions of the writing assignments for the
+  course, sample essay questions, and examples of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 99dd5e07-c2d3-dcce-0e13-35095e80c795
 ---
 
 **Response Papers**
 
-Response papers to weekly study questions will be due the first class of each week after the first week. See the [Study Questions]({{< baseurl >}}/pages/study-questions) section for more details.
+Response papers to weekly study questions will be due the first class of each week after the first week. See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" %}} section for more details.
 
 **Essays**
 
@@ -36,8 +41,8 @@ To what extent do Rousseau and Nietzsche agree and disagree about the role of hi
 
 _Student Examples_
 
-["Hobbes and Locke on the Rights of Man" (PDF)]({{< baseurl >}}/resources/mitcc_111f12_hobbeslocke)
+{{% resource_link 126b2e33-1e27-29d2-4004-bf0799a1bae3 "\"Hobbes and Locke on the Rights of Man\" (PDF)" %}}
 
-["Rousseau and Locke: Religion and the Times" (PDF)]({{< baseurl >}}/resources/mitcc_111f12_rousseaulocke)
+{{% resource_link 2a845a07-47c8-6519-b2c0-f7a0365dc67e "\"Rousseau and Locke: Religion and the Times\" (PDF)" %}}
 
 The examples above appear courtesy of MIT students and are used with permission.

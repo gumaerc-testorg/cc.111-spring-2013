@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by week and topic, and
+  citations for course textbooks.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 1b55e915-205e-72ff-cdf1-f6ada0d3da9a
 ---
@@ -56,7 +61,7 @@ The New Understanding of Human Nature and Politics
 
 \[Machiavelli\] Chapters 1–26.
 
-_See the [Study Questions]({{< baseurl >}}/pages/study-questions#1) section_
+_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#1" %}} section_
 
 
 {{< tdclose >}}
@@ -98,7 +103,7 @@ On Man
 
 \[Hobbes\] Chapter XV: "Of Other Laws of Nature." in Part I: Of Man.
 
-_See the [Study Questions]({{< baseurl >}}/pages/study-questions#3) section_
+_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#3" %}} section_
 
 
 {{< tdclose >}}
@@ -136,7 +141,7 @@ On Commonwealth
 
 \[Hobbes\] Chapter XXX: "Of the Office of the Sovereign Representative." in Part II: Of Commonwealth.
 
-_See the [Study Questions]({{< baseurl >}}/pages/study-questions#4) section_
+_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#4" %}} section_
 
 
 {{< tdclose >}}
@@ -176,7 +181,7 @@ Contract
 
 \[Locke\] Chapter IX: "Of the Ends of Political Society and Government."
 
-_See the [Study Questions]({{< baseurl >}}/pages/study-questions#5) section_
+_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#5" %}} section_
 
 
 {{< tdclose >}}
@@ -212,7 +217,7 @@ Legitimate Government
 
 \[Locke\] Chapter XIX: "Of the Dissolution of Government."
 
-_See the [Study Questions]({{< baseurl >}}/pages/study-questions#6) section_
+_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#6" %}} section_
 
 
 {{< tdclose >}}
@@ -232,7 +237,7 @@ Locke, John. _A Letter Concerning Toleration_. CreateSpace Independent Publishin
 
 [Declaration of Independence](http://www.archives.gov/exhibits/charters/declaration_transcript.html), archives.gov.
 
-_See the [Study Questions]({{< baseurl >}}/pages/study-questions#7) section_
+_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#7" %}} section_
 
 
 {{< tdclose >}}
@@ -272,7 +277,7 @@ Hamilton, Alexander. "[The Federalist, No. 69: The Real Character of the Executi
 
 ———. "[The Federalist, No. 84: Certain General and Miscellaneous Objections to the Constitution Considered and Answered](http://www.constitution.org/fed/federa84.htm),"constitution.org.
 
-_See the [Study Questions]({{< baseurl >}}/pages/study-questions#8) section_
+_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#8" %}} section_
 
 
 {{< tdclose >}}
@@ -336,7 +341,7 @@ Liberty and Equality in America
 
 \[Tocqueville\] Chapter 8: "General View of the Subject." Vol. Two: Part Four.
 
-_See the [Study Questions]({{< baseurl >}}/pages/study-questions#9) section_
+_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#9" %}} section_
 
 
 {{< tdclose >}}
@@ -360,7 +365,7 @@ Lincoln: A New Birth of Freedom?
 
 [The Lincoln / Douglas Debates of 1858](http://lincoln.lib.niu.edu/lincolndouglas), lincoln.lib.niu.ebu.
 
-_See the [Study Questions]({{< baseurl >}}/pages/study-questions#10) section_
+_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#10" %}} section_
 
 
 {{< tdclose >}}
@@ -394,7 +399,7 @@ Human Nature and Inequality
 
 \[Rousseau\] "Rousseau's Notes: Footnote (l)."
 
-_See the [Study Questions]({{< baseurl >}}/pages/study-questions#11) section_
+_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#11" %}} section_
 
 
 {{< tdclose >}}
@@ -414,7 +419,7 @@ Rousseau, Jean-Jacques. "Book III." In _The Social Contract_. CreateSpace Indepe
 
 ———. "Book IV." In _The Social Contract_. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453754207.
 
-_See the [Study Questions]({{< baseurl >}}/pages/study-questions#12) section_
+_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#12" %}} section_
 
 
 {{< tdclose >}}
@@ -444,7 +449,7 @@ A New Vision
 
 \[Nietzsche\]
 
-_See the [Study Questions]({{< baseurl >}}/pages/study-questions#13) section_
+_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#13" %}} section_
 
 
 {{< tdclose >}}

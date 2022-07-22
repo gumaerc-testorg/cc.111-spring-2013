@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides study questions for the weekly reading assignments
+  of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Questions
 uid: daa2ba65-4163-c1b8-47d5-c317f6b1af75
 ---
@@ -44,9 +48,9 @@ The New Understanding of Human Nature and Politics
 {{< tdopen >}}
 
 
-[Week 1 Study Questions (PDF)]({{< baseurl >}}/resources/mitcc_111f12_week1ques)
+{{% resource_link 2d4379ed-371f-4c8a-551e-3fe86543b5d1 "Week 1 Study Questions (PDF)" %}}
 
-[Week 2 Study Questions (PDF)]({{< baseurl >}}/resources/mitcc_111f12_week2ques)
+{{% resource_link 0463addd-8795-a38a-f349-2e6eea786a0b "Week 2 Study Questions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -66,7 +70,7 @@ The New Understanding of Human Nature and Politics
 On Man
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 3 Study Questions (PDF)]({{< baseurl >}}/resources/mitcc_111f12_week3ques)
+{{% resource_link acacc1b2-9472-805d-d234-dfe776626b23 "Week 3 Study Questions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ On Man
 On Commonwealth
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 4 Study Questions (PDF)]({{< baseurl >}}/resources/mitcc_111f12_week4ques)
+{{% resource_link dc6e1e9c-4547-0d13-1c86-5077cfb97735 "Week 4 Study Questions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +100,7 @@ On Commonwealth
 Contract
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 5 Study Questions (PDF)]({{< baseurl >}}/resources/mitcc_111f12_week5ques)
+{{% resource_link 0994ac2f-5194-e951-7502-14c555ea8b16 "Week 5 Study Questions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +112,7 @@ Contract
 Legitimate Government
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 6 Study Questions (PDF)]({{< baseurl >}}/resources/mitcc_111f12_week6ques)
+{{% resource_link 71c3d4f8-bff8-d5ad-49ba-2bea45559f28 "Week 6 Study Questions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +124,7 @@ Legitimate Government
 Freedom of Thought
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 7 Study Questions (PDF)]({{< baseurl >}}/resources/mitcc_111f12_week7ques)
+{{% resource_link 17c36bca-40ce-3db3-117d-627a6961a06f "Week 7 Study Questions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +142,7 @@ Freedom of Thought
 The American Founding
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 8 Study Questions (PDF)]({{< baseurl >}}/resources/mitcc_111f12_week8ques)
+{{% resource_link 5370feaf-3a52-27f3-d302-351a739c0265 "Week 8 Study Questions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +154,7 @@ The American Founding
 Liberty and Equality in America
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 9 Study Questions (PDF)]({{< baseurl >}}/resources/mitcc_111f12_week9ques)
+{{% resource_link 84bbf71d-3116-2587-3e96-34b9e46a2272 "Week 9 Study Questions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +172,7 @@ Liberty and Equality in America
 Lincoln: A New Birth of Freedom?
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 10 Study Questions (PDF)]({{< baseurl >}}/resources/mitcc_111f12_week10ques)
+{{% resource_link 9f0086a6-ecf0-7b18-4628-680dc541caf3 "Week 10 Study Questions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +196,7 @@ Lincoln: A New Birth of Freedom?
 Human Nature and Inequality
 {{< tdclose >}}
 {{< tdopen >}}
-[Weeks 11 and 12 Study Questions (PDF)]({{< baseurl >}}/resources/mitcc_111f12_week11ques)
+{{% resource_link 1260f5d7-9120-74d0-849b-050b4cdc85ed "Weeks 11 and 12 Study Questions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +220,7 @@ Human Nature and Inequality
 A New Vision
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 13 Study Questions (PDF)]({{< baseurl >}}/resources/mitcc_111f12_week13ques)
+{{% resource_link 06ed2653-6067-b4b1-f0d5-020a96d30eea "Week 13 Study Questions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
