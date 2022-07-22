@@ -5,6 +5,7 @@ file: /courses/cc-111-modern-conceptions-of-freedom-spring-2013/2a845a0747c86519
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

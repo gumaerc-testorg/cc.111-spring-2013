@@ -4,6 +4,7 @@ description: ''
 file: /courses/cc-111-modern-conceptions-of-freedom-spring-2013/0994ac2f5194e951750214c555ea8b16_MITCC_111F12_Week5Ques.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Questions
 parent_type: CourseSection
