@@ -2,86 +2,52 @@
 content_type: page
 description: This section provides the schedule of readings by week and topic, and
   citations for course textbooks.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 1b55e915-205e-72ff-cdf1-f6ada0d3da9a
 ---
+\[Machiavelli\] = Machiavelli, Niccolò. *The Prince.* 2nd ed. Translated by Harvey C. Mansfield. University of Chicago Press, 1998. ISBN: 9780226500447.
 
-\[Machiavelli\] = Machiavelli, Niccolò. _The Prince._ 2nd ed. Translated by Harvey C. Mansfield. University of Chicago Press, 1998. ISBN: 9780226500447.
+\[Hobbes\] = Hobbes, Thomas. *Leviathan: with Selected Variants from the Latin Edition of 1668*. Edited by Edwin Curley. Hackett Publishing Company, 1994. ISBN: 9780872201774. \[Preview with [Google Books](http://books.google.com/books?id=AMnB469I8bYC&pg=PAfrontcover)\]
 
-\[Hobbes\] = Hobbes, Thomas. _Leviathan: with Selected Variants from the Latin Edition of 1668_. Edited by Edwin Curley. Hackett Publishing Company, 1994. ISBN: 9780872201774. \[Preview with [Google Books](http://books.google.com/books?id=AMnB469I8bYC&pg=PAfrontcover)\]
+\[Locke\] = Locke, John. *Second Treatise of Government*. Edited by C. B. Macpherson. Hackett Publishing Company, 1980. ISBN: 9780915144860. \[Preview with [Google Books](http://books.google.com/books?id=GK32AiZm3GEC&pg=PAfrontcover)\]
 
-\[Locke\] = Locke, John. _Second Treatise of Government_. Edited by C. B. Macpherson. Hackett Publishing Company, 1980. ISBN: 9780915144860. \[Preview with [Google Books](http://books.google.com/books?id=GK32AiZm3GEC&pg=PAfrontcover)\]
+\[Tocqueville\] = Tocqueville, Alexis de. *Democracy in America*. Translated, Edited, and with an Introduction by Harvey C. Mansfield, and Delba Winthrop. University of Chicago Press, 2002. ISBN: 9780226805368.
 
-\[Tocqueville\] = Tocqueville, Alexis de. _Democracy in America_. Translated, Edited, and with an Introduction by Harvey C. Mansfield, and Delba Winthrop. University of Chicago Press, 2002. ISBN: 9780226805368.
+\[Rousseau\] = Rousseau, Jean-Jacques. *The First and Second Discourses*. Edited by Roger D. Masters. Bedford / St. Martin's Press, 1969. ISBN: 9780312694401.
 
-\[Rousseau\] = Rousseau, Jean-Jacques. _The First and Second Discourses_. Edited by Roger D. Masters. Bedford / St. Martin's Press, 1969. ISBN: 9780312694401.
+\[Nietzsche\] = Nietzsche, Friedrich. *On the Advantage and Disadvantage of History for Life*. Translated by Peter Preuss. Hackett Publishing Company, 1980. ISBN: 9780915144945. \[Preview with [Google Books](http://books.google.com/books?id=k9wwrAakUmAC&pg=Pafrontcover)\]
 
-\[Nietzsche\] = Nietzsche, Friedrich. _On the Advantage and Disadvantage of History for Life_. Translated by Peter Preuss. Hackett Publishing Company, 1980. ISBN: 9780915144945. \[Preview with [Google Books](http://books.google.com/books?id=k9wwrAakUmAC&pg=Pafrontcover)\]
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **THE ENLIGHTENMENT**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Machiavelli**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1 and 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The New Understanding of Human Nature and Politics
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Machiavelli\] Chapters 1–26.
 
-_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#1" %}} section_
+*See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#1" %}} *section*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Hobbes**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 On Man
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Hobbes\] Chapter I: "Of Sense." in Part I: Of Man.
 
@@ -103,21 +69,13 @@ On Man
 
 \[Hobbes\] Chapter XV: "Of Other Laws of Nature." in Part I: Of Man.
 
-_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#3" %}} section_
+*See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#3" %}} *section*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 On Commonwealth
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Hobbes\] Chapter XVI: "Of Persons, Authors, and Things Personated." in Part I: Of Man.
 
@@ -141,27 +99,15 @@ On Commonwealth
 
 \[Hobbes\] Chapter XXX: "Of the Office of the Sovereign Representative." in Part II: Of Commonwealth.
 
-_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#4" %}} section_
+*See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#4" %}} *section*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Locke**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Contract
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Locke\] Chapter I: "7."
 
@@ -181,21 +127,13 @@ Contract
 
 \[Locke\] Chapter IX: "Of the Ends of Political Society and Government."
 
-_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#5" %}} section_
+*See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#5" %}} *section*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Legitimate Government
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Locke\] Chapter X: "Of the Forms of a Common-wealth."
 
@@ -217,81 +155,53 @@ Legitimate Government
 
 \[Locke\] Chapter XIX: "Of the Dissolution of Government."
 
-_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#6" %}} section_
+*See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#6" %}} *section*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Freedom of Thought
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Locke, John. _A Letter Concerning Toleration_. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453846414. \[Preview with [Google Books](http://books.google.com/books?id=V1jg37j7H-AC&pg=PAfrontcover)\]
+Locke, John. *A Letter Concerning Toleration*. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453846414. \[Preview with [Google Books](http://books.google.com/books?id=V1jg37j7H-AC&pg=PAfrontcover)\]
 
 [Declaration of Independence](http://www.archives.gov/exhibits/charters/declaration_transcript.html), archives.gov.
 
-_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#7" %}} section_
+*See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#7" %}} *section*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **LIBERTY AND AMERICAN CONSTITUTIONALISM**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The American Founding
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [The Articles of Confederation](http://www.ourdocuments.gov/doc.php?flash=true&doc=3&page=transcript), ourdocuments.gov.
 
 [Constitution of the United States](http://www.archives.gov/exhibits/charters/constitution_transcript.html), archives.gov.
 
-Madison, James. "[The Federalist, No. 10: The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection (continued)](http://www.constitution.org/fed/federa10.htm),"constitution.org.
+Madison, James. "The Federalist, No. 10: The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection."
 
-———. "[The Federalist, No. 49: Method of Guarding Against the Encroachments of Any One Department of Government b Appealing to the People Through a Convention](http://www.constitution.org/fed/federa49.htm),"constitution.org.
+———. "[The Federalist, No. 49: Method of Guarding Against the Encroachments of Any One Department of Government b Appealing to the People Through a Convention](https://guides.loc.gov/federalist-papers/text-41-50#s-lg-box-wrapper-25493416)."
 
-———. "[The Federalist, No. 51: The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments](http://www.constitution.org/fed/federa51.htm),"constitution.org.
+———. "[The Federalist, No. 51: The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments](https://guides.loc.gov/federalist-papers/text-51-60#s-lg-box-wrapper-25493427)."
 
-———. "[The Federalist, No. 57: The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation](http://www.constitution.org/fed/federa57.htm),"constitution.org.
+———. "[The Federalist, No. 57: The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation](https://guides.loc.gov/federalist-papers/text-51-60#s-lg-box-wrapper-25493433)."
 
-———. "[The Federalist, No. 63: The Senate (continued)](http://www.constitution.org/fed/federa63.htm),"constitution.org.
+———. "[The Federalist, No. 63: The Senate (continued)](https://guides.loc.gov/federalist-papers/text-61-70#s-lg-box-wrapper-25493450)."
 
-Hamilton, Alexander. "[The Federalist, No. 69: The Real Character of the Executive](http://www.constitution.org/fed/federa69.htm),"constitution.org.
+Hamilton, Alexander. "[The Federalist, No. 69: The Real Character of the Executive](https://guides.loc.gov/federalist-papers/text-61-70#s-lg-box-wrapper-25493456)."
 
-———. "[The Federalist, No. 84: Certain General and Miscellaneous Objections to the Constitution Considered and Answered](http://www.constitution.org/fed/federa84.htm),"constitution.org.
+———. "[The Federalist, No. 84: Certain General and Miscellaneous Objections to the Constitution Considered and Answered](https://guides.loc.gov/federalist-papers/text-81-85#s-lg-box-wrapper-25493491)."
 
-_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#8" %}} section_
+*See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#8" %}} *section*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Liberty and Equality in America
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Tocqueville\] "Author's Introduction."
 
@@ -341,57 +251,29 @@ Liberty and Equality in America
 
 \[Tocqueville\] Chapter 8: "General View of the Subject." Vol. Two: Part Four.
 
-_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#9" %}} section_
+*See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#9" %}} *section*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **STATESMANSHIP AND THE AMERICAN REGIME**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Lincoln: A New Birth of Freedom?
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [The Lincoln / Douglas Debates of 1858](http://lincoln.lib.niu.edu/lincolndouglas), lincoln.lib.niu.ebu.
 
-_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#10" %}} section_
+*See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#10" %}} *section*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **A CRITIQUE OF ENLIGHTENMENT**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Rousseau**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Human Nature and Inequality
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Rousseau\] "Discourse on the Origin and Foundations of Inequality (Second Discourse), First and Second Parts."
 
@@ -399,61 +281,32 @@ Human Nature and Inequality
 
 \[Rousseau\] "Rousseau's Notes: Footnote (l)."
 
-_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#11" %}} section_
+*See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#11" %}} *section*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Freedom of the Citizen
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Rousseau, Jean-Jacques. "Book III." In *The Social Contract*. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453754207.
 
-Rousseau, Jean-Jacques. "Book III." In _The Social Contract_. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453754207.
+———. "Book IV." In *The Social Contract*. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453754207.
 
-———. "Book IV." In _The Social Contract_. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453754207.
+*See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#12" %}} *section*
 
-_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#12" %}} section_
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **THE CRISIS OF MODERNITY**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Nietzsche**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 A New Vision
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Nietzsche\]
 
-_See the {{% resource_link daa2ba65-4163-c1b8-47d5-c317f6b1af75 "Study Questions" "#13" %}} section_
+*See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#13" %}} *section*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
