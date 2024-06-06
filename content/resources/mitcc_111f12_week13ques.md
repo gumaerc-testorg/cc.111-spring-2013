@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/cc-111-modern-conceptions-of-freedom-spring-2013/06ed26536067b4b1f0d5020a96d30eea_MITCC_111F12_Week13Ques.pdf
+file_size: 89415
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
