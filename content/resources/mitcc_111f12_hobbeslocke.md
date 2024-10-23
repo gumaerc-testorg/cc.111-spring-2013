@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/cc-111-modern-conceptions-of-freedom-spring-2013/126b2e331e2729d24004bf0799a1bae3_MITCC_111F12_HobbesLocke.pdf
+file: /ol-ocw-studio-app/courses/cc-111-modern-conceptions-of-freedom-spring-2013/126b2e331e2729d24004bf0799a1bae3_MITCC_111F12_HobbesLocke.pdf
 file_size: 806036
 file_type: application/pdf
 learning_resource_types:
