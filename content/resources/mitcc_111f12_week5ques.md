@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/cc-111-modern-conceptions-of-freedom-spring-2013/0994ac2f5194e951750214c555ea8b16_MITCC_111F12_Week5Ques.pdf
+file: /courses/cc-111-modern-conceptions-of-freedom-spring-2013/0994ac2f5194e951750214c555ea8b16_MITCC_111F12_Week5Ques.pdf
 file_size: 80782
 file_type: application/pdf
 learning_resource_types: []
