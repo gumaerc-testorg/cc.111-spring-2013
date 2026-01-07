@@ -11,15 +11,15 @@ uid: 1b55e915-205e-72ff-cdf1-f6ada0d3da9a
 ---
 \[Machiavelli\] = Machiavelli, Niccolò. *The Prince.* 2nd ed. Translated by Harvey C. Mansfield. University of Chicago Press, 1998. ISBN: 9780226500447.
 
-\[Hobbes\] = Hobbes, Thomas. *Leviathan: with Selected Variants from the Latin Edition of 1668*. Edited by Edwin Curley. Hackett Publishing Company, 1994. ISBN: 9780872201774. \[Preview with {{% resource_link "0dba38a3-72b9-4b2b-9de2-cf1eac60dc35" "Google Books" %}}\]
+\[Hobbes\] = Hobbes, Thomas. *Leviathan: with Selected Variants from the Latin Edition of 1668*. Edited by Edwin Curley. Hackett Publishing Company, 1994. ISBN: 9780872201774. \[Preview with [Google Books](http://books.google.com/books?id=AMnB469I8bYC&pg=PAfrontcover)\]
 
-\[Locke\] = Locke, John. *Second Treatise of Government*. Edited by C. B. Macpherson. Hackett Publishing Company, 1980. ISBN: 9780915144860. \[Preview with {{% resource_link "85e11f96-35b1-43bb-b315-fdd724a95def" "Google Books" %}}\]
+\[Locke\] = Locke, John. *Second Treatise of Government*. Edited by C. B. Macpherson. Hackett Publishing Company, 1980. ISBN: 9780915144860. \[Preview with [Google Books](http://books.google.com/books?id=GK32AiZm3GEC&pg=PAfrontcover)\]
 
 \[Tocqueville\] = Tocqueville, Alexis de. *Democracy in America*. Translated, Edited, and with an Introduction by Harvey C. Mansfield, and Delba Winthrop. University of Chicago Press, 2002. ISBN: 9780226805368.
 
 \[Rousseau\] = Rousseau, Jean-Jacques. *The First and Second Discourses*. Edited by Roger D. Masters. Bedford / St. Martin's Press, 1969. ISBN: 9780312694401.
 
-\[Nietzsche\] = Nietzsche, Friedrich. *On the Advantage and Disadvantage of History for Life*. Translated by Peter Preuss. Hackett Publishing Company, 1980. ISBN: 9780915144945. \[Preview with {{% resource_link "ea332bfa-80be-4741-b301-8f2c6e3b9752" "Google Books" %}}\]
+\[Nietzsche\] = Nietzsche, Friedrich. *On the Advantage and Disadvantage of History for Life*. Translated by Peter Preuss. Hackett Publishing Company, 1980. ISBN: 9780915144945. \[Preview with [Google Books](http://books.google.com/books?id=k9wwrAakUmAC&pg=Pafrontcover)\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
@@ -163,9 +163,9 @@ Legitimate Government
 Freedom of Thought
 {{< tdclose >}}{{< tdopen >}}
 
-Locke, John. *A Letter Concerning Toleration*. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453846414. \[Preview with {{% resource_link "49763424-4167-4fd8-b448-fc7cd1bd7022" "Google Books" %}}\]
+Locke, John. *A Letter Concerning Toleration*. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453846414. \[Preview with [Google Books](http://books.google.com/books?id=V1jg37j7H-AC&pg=PAfrontcover)\]
 
-{{% resource_link "b3c86e35-b95c-4a84-81f8-b307013ecced" "Declaration of Independence" %}}, archives.gov.
+[Declaration of Independence](http://www.archives.gov/exhibits/charters/declaration_transcript.html), archives.gov.
 
 *See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#7" %}} *section*
 
@@ -177,23 +177,23 @@ Locke, John. *A Letter Concerning Toleration*. CreateSpace Independent Publishin
 The American Founding
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "5b3260fa-e8bd-4b02-ac28-0ba107a4f6bc" "The Articles of Confederation" %}}, ourdocuments.gov.
+[The Articles of Confederation](http://www.ourdocuments.gov/doc.php?flash=true&doc=3&page=transcript), ourdocuments.gov.
 
-{{% resource_link "3c63b6d8-cf19-4099-b53c-37815d0a1f23" "Constitution of the United States" %}}, archives.gov.
+[Constitution of the United States](http://www.archives.gov/exhibits/charters/constitution_transcript.html), archives.gov.
 
 Madison, James. "The Federalist, No. 10: The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection."
 
-———. "{{% resource_link "032bf508-ddd0-4a19-8d62-a0290884eb79" "The Federalist, No. 49: Method of Guarding Against the Encroachments of Any One Department of Government b Appealing to the People Through a Convention" %}}."
+———. "[The Federalist, No. 49: Method of Guarding Against the Encroachments of Any One Department of Government b Appealing to the People Through a Convention](https://guides.loc.gov/federalist-papers/text-41-50#s-lg-box-wrapper-25493416)."
 
-———. "{{% resource_link "f696d6b8-4ebc-4e60-b07d-9613a3d66326" "The Federalist, No. 51: The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments" %}}."
+———. "[The Federalist, No. 51: The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments](https://guides.loc.gov/federalist-papers/text-51-60#s-lg-box-wrapper-25493427)."
 
-———. "{{% resource_link "3925bb84-e6f7-48c5-896e-a538cf2a7b57" "The Federalist, No. 57: The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation" %}}."
+———. "[The Federalist, No. 57: The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation](https://guides.loc.gov/federalist-papers/text-51-60#s-lg-box-wrapper-25493433)."
 
-———. "{{% resource_link "e3da1bb8-f594-48e5-88c2-1b792b418a93" "The Federalist, No. 63: The Senate (continued)" %}}."
+———. "[The Federalist, No. 63: The Senate (continued)](https://guides.loc.gov/federalist-papers/text-61-70#s-lg-box-wrapper-25493450)."
 
-Hamilton, Alexander. "{{% resource_link "2716d40c-d79f-4afc-8051-ad1b177422c3" "The Federalist, No. 69: The Real Character of the Executive" %}}."
+Hamilton, Alexander. "[The Federalist, No. 69: The Real Character of the Executive](https://guides.loc.gov/federalist-papers/text-61-70#s-lg-box-wrapper-25493456)."
 
-———. "{{% resource_link "7ab8d453-cd21-4a52-af05-519bb7dcb206" "The Federalist, No. 84: Certain General and Miscellaneous Objections to the Constitution Considered and Answered" %}}."
+———. "[The Federalist, No. 84: Certain General and Miscellaneous Objections to the Constitution Considered and Answered](https://guides.loc.gov/federalist-papers/text-81-85#s-lg-box-wrapper-25493491)."
 
 *See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#8" %}} *section*
 
@@ -261,7 +261,7 @@ Liberty and Equality in America
 Lincoln: A New Birth of Freedom?
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "a9fba711-57be-4811-8119-0338ea6a5486" "The Lincoln / Douglas Debates of 1858" %}}, lincoln.lib.niu.ebu.
+[The Lincoln / Douglas Debates of 1858](http://lincoln.lib.niu.edu/lincolndouglas), lincoln.lib.niu.ebu.
 
 *See the* {{% resource_link "daa2ba65-4163-c1b8-47d5-c317f6b1af75" "*Study Questions*" "#10" %}} *section*
 
