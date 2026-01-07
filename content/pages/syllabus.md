@@ -16,11 +16,11 @@ Lectures: 2 sessions / week; 1.5 hours / session
 
 ## The Concourse Program
 
-This course is part of the {{% resource_link "cde55926-f8bf-48a3-8cf9-93fe6e9e9b2a" "Concourse" %}} program at MIT. Concourse is a unique program for freshmen. It focuses on integration of the disciplines, teaching the rigorous scientific subjects within the broader human framework. Classes are taught by highly dedicated teachers in an interactive learning environment with small class sizes. This creates a high degree of student-faculty, and student-student interaction and therein a superior learning experience.
+This course is part of the [Concourse](https://concourse.mit.edu/) program at MIT. Concourse is a unique program for freshmen. It focuses on integration of the disciplines, teaching the rigorous scientific subjects within the broader human framework. Classes are taught by highly dedicated teachers in an interactive learning environment with small class sizes. This creates a high degree of student-faculty, and student-student interaction and therein a superior learning experience.
 
 ## Prerequisite
 
-None, but there is a corequisite with {{% resource_link "7f646c75-cd80-4758-b40f-4c8fc28b3ad4" "CC.011 Seminar II" %}}.
+None, but there is a corequisite with [CC.011 Seminar II](http://student.mit.edu/catalog/mCCa.html#CC.011).
 
 ## Course Overview
 
@@ -34,15 +34,15 @@ Response papers to weekly study questions will be due the first class of each we
 
 Machiavelli, Niccolò. *The Prince.* 2nd ed. Translated by Harvey C. Mansfield. University of Chicago Press, 1998. ISBN: 9780226500447.
 
-Hobbes, Thomas. *Leviathan: with Selected Variants from the Latin Edition of 1668*. Edited by Edwin Curley. Hackett Publishing Company, 1994. ISBN: 9780872201774. \[Preview with {{% resource_link "0dba38a3-72b9-4b2b-9de2-cf1eac60dc35" "Google Books" %}}\]
+Hobbes, Thomas. *Leviathan: with Selected Variants from the Latin Edition of 1668*. Edited by Edwin Curley. Hackett Publishing Company, 1994. ISBN: 9780872201774. \[Preview with [Google Books](http://books.google.com/books?id=AMnB469I8bYC&pg=PAfrontcover)\]
 
-Locke, John. *Second Treatise of Government*. Edited by C. B. Macpherson. Hackett Publishing Company, 1980. ISBN: 9780915144860. \[Preview with {{% resource_link "85e11f96-35b1-43bb-b315-fdd724a95def" "Google Books" %}}\]
+Locke, John. *Second Treatise of Government*. Edited by C. B. Macpherson. Hackett Publishing Company, 1980. ISBN: 9780915144860. \[Preview with [Google Books](http://books.google.com/books?id=GK32AiZm3GEC&pg=PAfrontcover)\]
 
 Tocqueville, Alexis de. *Democracy in America*. Translated, Edited, and with an Introduction by Harvey C. Mansfield and Delba Winthrop. University of Chicago Press, 2002. ISBN: 9780226805368.
 
 Rousseau, Jean-Jacques. *The First and Second Discourses*. Edited by Roger D. Masters. Bedford / St. Martin's Press, 1969. ISBN: 9780312694401.
 
-Nietzsche, Friedrich. *On the Advantage and Disadvantage of History for Life*. Translated by Peter Preuss. Hackett Publishing Company, 1980. ISBN: 9780915144945. \[Preview with {{% resource_link "ea332bfa-80be-4741-b301-8f2c6e3b9752" "Google Books" %}}\]
+Nietzsche, Friedrich. *On the Advantage and Disadvantage of History for Life*. Translated by Peter Preuss. Hackett Publishing Company, 1980. ISBN: 9780915144945. \[Preview with [Google Books](http://books.google.com/books?id=k9wwrAakUmAC&pg=Pafrontcover)\]
 
 ## Grade Distribution
 
